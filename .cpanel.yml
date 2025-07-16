@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/your-username/public_html/
+    - export DEPLOYPATH=/home/shreecom/public_html/
     - /bin/cp -R * $DEPLOYPATH
